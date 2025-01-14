@@ -1,0 +1,21 @@
+
+
+
+
+DbProviderFactory 
+
+allows the connections to be created by name
+
+Register DbProviderFactory by having special entries in machine.config
+
+data source enumerator? Directories on the machine.
+
+
+
+DbConnection
+
+implement this to read the boots directory
+
+Do we want change database?
+
+
